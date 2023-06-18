@@ -12,3 +12,7 @@ While implementing it, I learned a ton about computer graphics and game engines.
 1. Download the `main` branch.
 2. Set Bundle ID.
 3. Launch on your device or simulator.
+
+### On Raycasting
+
+If you want to better understand raycasting, check out [this](https://permadi.com/tutorial/raycast/rayc1.html) amazing tutorial.
